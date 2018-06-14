@@ -1,7 +1,7 @@
 package cn.leecn.service;
 
-public class HelloService {
+public class TestMerge {
 	public static void main(String[] args) {
-		System.out.println("hello world");
+		System.out.println("testMerge");
 	}
 }
